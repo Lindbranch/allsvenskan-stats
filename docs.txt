@@ -1,0 +1,5 @@
+https://allsvenskan.se/data-endpoint/statistics/standings/2019/total
+https://allsvenskan.se/data-endpoint/seasons
+https://allsvenskan.se/data-endpoint/statistics/players/2024
+https://allsvenskan.se/data-endpoint/team?id=MFF
+https://allsvenskan.se/data-endpoint/statistics/standings/2019/total
